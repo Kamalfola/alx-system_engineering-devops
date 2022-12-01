@@ -1,2 +1,2 @@
 #!/bin/bash
-chmo d 755  
+chmo d 755 0x01-shell_permissions  
