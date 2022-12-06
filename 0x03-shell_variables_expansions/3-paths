@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l /path | wc -l
+ls -lU $path | wc -l
