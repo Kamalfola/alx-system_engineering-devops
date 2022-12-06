@@ -1,2 +1,2 @@
 #!/bin/bash
-expr $TRUEKNOWLEDGE + 129/n
+expr $TRUEKNOWLEDGE + 128
