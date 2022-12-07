@@ -1,2 +1,2 @@
 #!/bin/bash
-expr $DIVIDE / $RULE
+expr $POWER / $DIVIDE
